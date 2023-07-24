@@ -21,10 +21,9 @@ eprint = {https://doi.org/10.1200/JCO.2021.39.15_suppl.549}
 The associated Jupyter notebook can be downloaded and all relevant code is provided within the notebook.
 
 Requirements:
-* python 3.8.5
+* python 3.8.8
 * pandas 1.0.5
 * numpy 1.19.0
-* pymatch 0.3.4
 * tableone 0.7.10
 * lifelines 0.26.3
 
