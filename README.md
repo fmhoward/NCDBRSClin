@@ -2,7 +2,7 @@
 A retrospective validation of the RSClin clinical risk calculator
 
 ## Attribution
-If you use this code in your work or find it helpful, please consider citing our<a href='https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.35163'>paper in Cancer</a>.
+If you use this code in your work or find it helpful, please consider citing our <a href='https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.35163'>paper in Cancer</a>.
 ```
 @article{vannier_validation_2023,
 	title = {Validation of the {RSClin} risk calculator in the {National} {Cancer} {Data} {Base}},
