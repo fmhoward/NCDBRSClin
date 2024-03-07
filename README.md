@@ -2,19 +2,24 @@
 A retrospective validation of the RSClin clinical risk calculator
 
 ## Attribution
-If you use this code in your work or find it helpful, please consider citing our<a href='https://doi.org/10.1200/JCO.2021.39.15_suppl.549'>ASCO abstract</a> (paper forthcoming).
+If you use this code in your work or find it helpful, please consider citing our<a href='https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.35163'>paper in Cancer</a>.
 ```
-@article{doi:10.1200/JCO.2021.39.15\_suppl.549,
-author = {Howard, Frederick and Pearson, Alexander T. and Nanda, Rita and Olopade, Olufunmilayo I. and Huo, Dezheng},
-title = {Validation of the RSClin risk calculator using the National Cancer Database (NCDB).},
-journal = {Journal of Clinical Oncology},
-volume = {39},
-number = {15\_suppl},
-pages = {549-549},
-year = {2021},
-doi = {10.1200/JCO.2021.39.15\_suppl.549},
-URL = {https://doi.org/10.1200/JCO.2021.39.15_suppl.549},
-eprint = {https://doi.org/10.1200/JCO.2021.39.15_suppl.549}
+@article{vannier_validation_2023,
+	title = {Validation of the {RSClin} risk calculator in the {National} {Cancer} {Data} {Base}},
+	issn = {1097-0142},
+	doi = {10.1002/cncr.35163},
+	abstract = {BACKGROUND: Guidelines recommend the use of genomic assays such as OncotypeDx to aid in decisions regarding the use of chemotherapy for hormone receptor-positive, HER2-negative (HR+/HER2-) breast cancer. The RSClin prognostic tool integrates OncotypeDx and clinicopathologic features to predict distant recurrence and chemotherapy benefit, but further validation is needed before broad clinical adoption.
+METHODS: This study included patients from the National Cancer Data Base (NCDB) who were diagnosed with stage I-III HR+/HER2- breast cancer from 2010 to 2020 and received adjuvant endocrine therapy with or without chemotherapy. RSClin-predicted chemotherapy benefit was stratified into low ({\textless}3\% reduction in distant recurrence), intermediate (3\%-5\%), and high ({\textgreater}5\%). Cox models were used to model mortality adjusted for age, comorbidity index, insurance, and race/ethnicity.
+RESULTS: A total of 285,441 patients were identified for inclusion from the NCDB, with an average age of 60 years and a median follow-up of 58 months. Chemotherapy was associated with improved overall survival only for those predicted to have intermediate (adjusted hazard ratio [aHR], 0.68; 95\% confidence interval [CI], 0.60-0.79) and high benefit per RSClin (aHR, 0.66; 95\% CI, 0.61-0.72). Consistent benefit was seen in the subset with a low OncotypeDx score ({\textless}26) and intermediate (aHR, 0.66; 95\% CI, 0.53-0.82) or high (aHR, 0.71; 95\% CI, 0.58-0.86) RSClin-predicted benefit. No survival benefit with chemotherapy was seen in patients with a high OncotypeDx score (≥26) and low benefit per RSClin (aHR, 1.70; 95\% CI, 0.41-6.99).
+CONCLUSIONS: RSClin may identify high-risk patients who benefit from treatment intensification more accurately than OncotypeDx, and further prospective study is needed.},
+	language = {eng},
+	journal = {Cancer},
+	author = {Vannier, Augustin G. L. and Dhungana, Asim and Zhao, Fangyuan and Chen, Nan and Shubeck, Sarah and Hahn, Olwen M. and Nanda, Rita and Jaskowiak, Nora T. and Fleming, Gini F. and Olopade, Olufunmilayo I. and Pearson, Alexander T. and Huo, Dezheng and Howard, Frederick M.},
+	month = dec,
+	year = {2023},
+	pmid = {38146744},
+	keywords = {breast neoplasms, aromatase inhibitors, chemotherapy, clinical decision-making, gene expression profiling, hormone antagonists, precision medicine},
+}
 ```
 
 ## Installation
